@@ -1,0 +1,7 @@
+loan= int (input("enter the originl loan"))
+years=int (input("enter the number of years"))
+APR=float(input("Enter correct APR (Annual percentage rate)"))
+for i in range(years):
+  total_loan=loan*(APR)
+  loan=loan+total_loan
+  print("The total loan after" ,i," years will be ", loan )  
