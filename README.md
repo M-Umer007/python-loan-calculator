@@ -1,1 +1,5 @@
-this is python code that will calculate the loan base on the data provide to it by the user
+#Python loan calculator
+
+##Description
+This CLI calculator helps you calculate the loan 
+It was written in Python 
