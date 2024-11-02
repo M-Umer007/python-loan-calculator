@@ -1,5 +1,5 @@
-#Python loan calculator
+# Python loan calculator
 
-##Description
+## Description
 This CLI calculator helps you calculate the loan 
 It was written in Python 
